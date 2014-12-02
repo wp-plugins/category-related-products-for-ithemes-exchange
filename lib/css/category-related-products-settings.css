@@ -1,0 +1,6 @@
+label{display:block;font-size:13px;color:#3d4142;margin-bottom:5px;margin-left:2px;}
+input[type="text"]{background:#fff;border:1px solid #d6d6d6;border-radius:3px;padding:10px;color:#3d4142;width: 90%;max-width:260px;}
+input[type="text"]:focus{outline:none;border:1px solid #c9c9c9;border-bottom-color:#aaaaaa;}
+input.small-text{max-width:50px; float:left;}
+span.description{clear:both;display:block;}
+.radio-options {float:left;margin:5px 0 5px 10px}
