@@ -14,6 +14,7 @@
 */
 function it_exchange_get_product_categories() {
 	// get the exchange product
+	global $post;
 	$exchange_product = it_exchange_get_product( $post->ID ); 
 
 	// get terms for the it_exchange_category taxonomy
