@@ -1,7 +1,7 @@
 <?php
 /*
  * Plugin Name: iThemes Exchange - Category Related Products
- * Version: 1.0.0
+ * Version: 1.0.1
  * Description: Display related products based on categories
  * Plugin URI: http://tywayne.com
  * Author: Ty Carlson
@@ -14,7 +14,7 @@
  *
  * @since 1.0.0
 */
-define( 'IT_Exchange_Category_Related_Products_Version', '1.0.0' );
+define( 'IT_Exchange_Category_Related_Products_Version', '1.0.1' );
 
 /**
  * This registers our plugin as an exchange addon

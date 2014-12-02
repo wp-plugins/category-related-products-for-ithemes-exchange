@@ -3,7 +3,7 @@ Contributors: tywayne
 Tags: iThemes Exchange, addon, ecommerce
 Requires at least: 3.9
 Tested up to: 4.0
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 
 Display related products based on Product Categories on a single product screen to help boost sales.
@@ -24,10 +24,13 @@ Plugin includes various hooks and filters to allow customization of the display 
 
 == Screenshots ==
 
-1. Enable the plugin on the Addons page under iThemes Exchange. Here you will also find the settings for this plugin
+1. Enable the plugin on the Add-ons page under iThemes Exchange. Here you will also find the settings for this plugin
 2. The settings for the plugin allow you to choose how many items to show, and at what width.
 
 == Changelog ==
+
+= 1.0.1 =
+* Removed php notice from front end do to undefined variable
 
 = 1.0.0 =
 * Initial Release
