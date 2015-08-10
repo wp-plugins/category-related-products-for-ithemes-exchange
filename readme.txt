@@ -2,7 +2,7 @@
 Contributors: tywayne
 Tags: iThemes Exchange, addon, ecommerce
 Requires at least: 3.9
-Tested up to: 4.1
+Tested up to: 4.3
 Stable tag: 1.0.1
 License: GPLv2 or later
 
